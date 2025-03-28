@@ -1,7 +1,7 @@
 # Huang
 # 週五_智慧城市AI課程
 ## QRcode 主頁連結
-![QRcode](CQh22G_qrcode (1).png)
+<img src="CQh22G_qrcode (2).png" width="200" hieght="200">
 ## 自我介紹
 | 項目 | 標題   | 內容                           |
 |------|--------|--------------------------------|
