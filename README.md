@@ -5,7 +5,7 @@
 ## 自我介紹
 | 項目 | 標題   | 內容                           |
 |------|--------|--------------------------------|
-| 1    | 大頭照 | ![大頭照](Cinnamoroll_character.png) |
+| 1    | 大頭照 | ![大頭照]([Cinnamoroll_character.png](https://github.com/asdf7753367/Huang/blob/main/istockphoto-1413100088-612x612.jpg)) |
 | 2    | 姓名   | 黃學政                          |
 | 3    | 科系   | 電子系                          |
 | 4    | 信箱   | C111252118@nkust.edu.tw         |
