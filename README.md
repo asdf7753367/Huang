@@ -13,10 +13,9 @@
 
 <br><br>
 # 我喜歡的Youtube影片
->## K-POP Aespa的歌曲
 
-<a href ="https://youtu.be/sXeYkw4VE24?si=sWyWu7uBfLYiuMzr" target="_blank">Karina Fancam</a><br>
-<a href ="https://youtu.be/sXeYkw4VE24?si=sWyWu7uBfLYiuMzr" target="_blank"><img src="https://img.youtube.com/vi/sXeYkw4VE24/sddefault.jpg" alt="Karina" width="720" hieght="360" border="10" /></a>
+<a href ="https://youtu.be/sXeYkw4VE24?si=7qmrwEO0d88" target="_blank">Karina Fancam</a><br>
+<a href ="https://youtu.be/sXeYkw4VE24?si=7qmrwEO0d88" target="_blank"><img src="https://img.youtube.com/vi/7qmrwEO0d88/sddefault.jpg" alt="Karina" width="720" hieght="360" border="10" /></a>
 <br>影片取自Youtube
 
 <br>
