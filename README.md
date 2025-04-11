@@ -10,12 +10,13 @@
 |2|姓名|黃學政|
 |3|科系|電子系|
 |4|信箱|C111252118@nkust.edu.tw|
-|5|科系|電子工程|
+|5|學校|高雄科技大學|
+|6|科系|電子工程|
 
 <br><br>
 # 我喜歡的Youtube影片
 
-<a href ="https://youtu.be/sXeYkw4VE24?si=7qmrwEO0d88" target="_blank">Karina Fancam</a><br>
+<a href ="https://youtu.be/sXeYkw4VE24?si=7qmrwEO0d88" target="_blank"></a><br>
 <a href ="https://youtu.be/sXeYkw4VE24?si=7qmrwEO0d88" target="_blank"><img src="https://img.youtube.com/vi/7qmrwEO0d88/sddefault.jpg" alt="Karina" width="720" hieght="360" border="10" /></a>
 <br>影片取自Youtube
 
